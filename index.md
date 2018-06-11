@@ -27,7 +27,7 @@
     <img src="images/airport.JPG">
     <img src="images/lots of people.JPG">
   </div>
-  <div class="images/column">
+  <div class="column">
     <img src="images/mustardday.JPG">
     <img src="images/w:david.jpg">
     <img src="images/airport.JPG">
