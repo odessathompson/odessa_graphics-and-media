@@ -3,7 +3,7 @@
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 68.25%; /* Full width */
-    background-color: #F5D547;
+    background-color: #0124CC;
 
 }
 
@@ -12,7 +12,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #F5D547;
+    background-color: #0124CC;
 }
 
 li {
