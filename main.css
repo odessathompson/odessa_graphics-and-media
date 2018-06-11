@@ -2,7 +2,7 @@
 .navigation{
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
-    width: 75%; /* Full width */
+    width: 70%; /* Full width */
     background-color: #DB3069;
 
 }
@@ -35,5 +35,23 @@ li a {
 
 /*changes body*/
 .text.main{
-        margin-top: 30px; /* Add a top margin to avoid content overlay */
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+header{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
 }
