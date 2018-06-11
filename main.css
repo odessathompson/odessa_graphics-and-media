@@ -56,14 +56,12 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-/*creates responsive picture collage*/
+/*creates responsive picture collage
 .row {
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
 }
-
-/* Create two equal columns that sits next to each other */
 .column {
   flex: 50%;
   padding: 0 4px;
@@ -73,9 +71,9 @@ body {
   margin-top: 8px;
   vertical-align: middle;
 }
+*/
 
 
-/*
 
 .row {
   display: flex;
@@ -91,4 +89,4 @@ body {
   margin-top: 8px;
   vertical-align: middle;
 }
-*/
+
