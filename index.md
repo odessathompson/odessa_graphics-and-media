@@ -11,7 +11,7 @@
 			<ul>
 				<li><a href="news.asp"></a></li>
 				<li id="plswork"><a href="https://odessathompson.github.io/odessa/"> Home </a></li>
-  				<li id="plswork"><a href="news.asp">Graphics & Audio</a></li>
+  				<li id="plswork"><a href="news.asp">Graphics & Media</a></li>
   				<li id="plswork"><a href="contact.asp">Contact</a></li>
   				<li id="plswork"><a href="about.asp">About</a></li>
 			</ul>
