@@ -21,5 +21,16 @@
 </header>
 
 <body>
-	<img src="images/window.JPG" alt="Odessa in a window">
+	<div class="row"> 
+  <div class="column">
+    <img src="images/window.JPG">
+    <img src="images/airport.JPG">
+    <img src="images/lots of people.JPG">
+  </div>
+  <div class="images/column">
+    <img src="images/mustardday.JPG">
+    <img src="images/w:david.jpg">
+    <img src="images/airport.JPG">
+  </div> 
+	
 </body>
