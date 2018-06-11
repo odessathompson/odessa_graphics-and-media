@@ -20,4 +20,5 @@
 </header>
 
 <body>
+	<img src="images/window.jpg" alt="Odessa in a window">
 </body>
