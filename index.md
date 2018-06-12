@@ -33,5 +33,32 @@
 	<img src="images/mustardday.JPG">
     	<img src="images/w:david.jpg">
   </div> 
+		
+<h2>Places</h2>
+	<div class="row"> 
+  <div class="column">
+    	<img src="cali.jpg">
+    	<img src="ranier.JPG">
+    	<img src="images/susbai.JPG">
+  </div>
+  <div class="column">
+	<img src="mt.jpg">
+	<img src="images/us.JPG">
+  </div>
+	
+<h2>Dogs</h2>
+	<div class="row"> 
+  <div class="column">
+    	<img src="omicute.jpg">
+	<img src="images/Snapseed.jpg">
+    	<img src="seal.jpg">
+	<img src="images/autumn.JPG">
+
+  </div>
+  <div class="column">
+	<img src="mackalu.JPG">
+	<img src="images/model omi.JPG">
+	<img src="snowomi.JPG">
+  </div>
 	
 </body>
