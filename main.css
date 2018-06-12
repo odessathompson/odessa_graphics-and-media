@@ -60,6 +60,10 @@ img{
     image-orientation: 90deg;
 }
 
+#rotate{
+     image-orientation: 90deg;
+}
+
 /*creates responsive picture collage*/
 .row {
   display: flex;
