@@ -21,6 +21,7 @@
 </header>
 
 <body>
+	<h2>ISEF 2018</h2>
 	<div class="row"> 
   <div class="column">
     <img src="images/window.JPG">
