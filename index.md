@@ -39,11 +39,11 @@
   <div class="column">
     	<img src="cali.jpg">
     	<img src="ranier.JPG">
-    	<img src="images/susbai.JPG">
+    	<img src="images/susbai.JPG" style="image-orientation: 90deg;">
   </div>
   <div class="column">
 	<img src="mt.jpg">
-	<img src="images/us.JPG">
+	<img src="images/us.JPG" style="transform:rotate(90deg);">
   </div>
 	
 <h2>Dogs</h2>
