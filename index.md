@@ -23,14 +23,16 @@
 	<h2>ISEF 2018</h2>
 	<div class="row"> 
   <div class="column">
-    <img src="images/window.JPG">
-    <img src="images/airport.JPG">
-    <img src="images/lots of people.JPG">
+    	<img src="images/window.JPG">
+    	<img src="images/prof.JPG">
+    	<img src="images/lots of people.JPG">
+	<img src="images/bailooking wack.JPG">
   </div>
   <div class="column">
-    <img src="images/mustardday.JPG">
-    <img src="images/w:david.jpg">
-    <img src="images/airport.JPG">
+	<img src="images/plane.JPG">
+	<img src="images/mustardday.JPG">
+    	<img src="images/w:david.jpg">
+    	<img src="images/airport.JPG">
   </div> 
 	
 </body>
