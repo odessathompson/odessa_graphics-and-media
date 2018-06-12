@@ -26,7 +26,7 @@
     	<img src="images/window.JPG">
     	<img src="images/prof.JPG">
     	<img src="images/lots of people.JPG">
-	<img src="images/bailooking wack.JPG" style="image-orientation: 90deg;" />
+	<img src="images/bailooking wack.JPG">
   </div>
   <div class="column">
 	<img src="images/airport.JPG">
@@ -39,11 +39,11 @@
   <div class="column">
     	<img src="cali.jpg">
     	<img src="ranier.JPG">
-    	<img src="images/susbai.JPG" style="transform:rotate(90deg);">
+    	<img src="images/susbai.JPG">
   </div>
   <div class="column">
 	<img src="mt.jpg">
-	<img src="images/us.JPG" style="transform:rotate(90deg);">
+	<img src="images/us.JPG">
   </div>
 	
 <h2>Dogs</h2>
@@ -52,12 +52,12 @@
     	<img src="omicute.jpg">
 	<img src="images/Snapseed.jpg">
     	<img src="seal.jpg">
-	<img src="images/autumn.JPG" style="transform:rotate(90deg);">
+	<img src="images/autumn.JPG">
 
   </div>
   <div class="column">
 	<img src="mackalu.JPG">
-	<img src="images/model omi.JPG" style="transform:rotate(90deg);">
+	<img id="rotate" src="images/model omi.JPG">
 	<img src="snowomi.JPG">
   </div>
 	
