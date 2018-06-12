@@ -52,12 +52,12 @@
     	<img src="omicute.jpg">
 	<img src="images/Snapseed.jpg">
     	<img src="seal.jpg">
-	<img src="images/autumn.JPG">
+	<img src="images/autumn.JPG"style="image-orientation: 90deg;">
 
   </div>
   <div class="column">
 	<img src="mackalu.JPG">
-	<img src="images/model omi.JPG">
+	<img src="images/model omi.JPG" style="image-orientation: 90deg;">
 	<img src="snowomi.JPG">
   </div>
 	
