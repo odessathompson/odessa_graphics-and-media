@@ -61,4 +61,3 @@
 	<img src="snowomi.JPG">
   </div>
 	
-</body>
