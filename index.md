@@ -26,7 +26,7 @@
     	<img src="images/window.JPG">
     	<img src="images/prof.JPG">
     	<img src="images/lots of people.JPG">
-	<img src="images/bailooking wack.JPG">
+	<img src="images/bailooking wack.JPG" style="image-orientation: 90deg;">
   </div>
   <div class="column">
 	<img src="images/airport.JPG">
