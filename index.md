@@ -5,7 +5,6 @@
 <head>
 	
 <header>
-	<h1>Odessa Thompson</h1>
 	<div class="navigation">	
 		<nav>
 			<ul>
