@@ -29,10 +29,9 @@
 	<img src="images/bailooking wack.JPG">
   </div>
   <div class="column">
-	<img src="images/plane.JPG">
+	<img src="images/airport.JPG">
 	<img src="images/mustardday.JPG">
     	<img src="images/w:david.jpg">
-    	<img src="images/airport.JPG">
   </div> 
 	
 </body>
